@@ -1,0 +1,16 @@
+.square {
+  vertical-align: top;
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  border: 1px solid red;
+  background-color: yellow;
+  line-height: 50px;
+  text-align: center;
+
+}
+
+.row {
+  display: block;
+  margin: 0 0 4px 0;
+}
